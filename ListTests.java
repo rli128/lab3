@@ -18,6 +18,7 @@ public class ListTests {
 
     };
     
+    
     List<String> input1 = new ArrayList<String>();
     input1.add("Banana");
     input1.add("Red");
